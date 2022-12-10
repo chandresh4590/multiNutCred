@@ -1,0 +1,4 @@
+Hi, this is first file
+I want to go it into commit
+Changed by Chan
+New changed
